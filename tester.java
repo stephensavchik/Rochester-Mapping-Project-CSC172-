@@ -12,8 +12,6 @@ public class tester
     {
         Graph g = new Graph("C:\\Users\\steph\\OneDrive\\Documents\\Intellij Projects\\CSC172\\IdeaProjects\\compSci172\\src\\PROJECT4\\MONROE.txt");
 
-
-
         JFrame frame = new JFrame("PROJECT4");
         canvas can = new canvas(g);
         frame.add(can);
