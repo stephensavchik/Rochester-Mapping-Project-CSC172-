@@ -1,0 +1,31 @@
+Stephen Savchik
+ssavchik@u.rochester.edu
+4/29/17
+
+
+The output of running the program is as follows:
+
+Edges in Minimum Weight Spanning Tree: 
+
+[Name:r1, Name:r2, Name:r3, Name:r4, Name:r21, Name:r5, Name:r8, Name:r9, Name:r11, Name:r12, Name:r14, Name:r22, 
+Name:r19, Name:r6, Name:r7, Name:r20, Name:r23, Name:r26, Name:r28, Name:r30, Name:r34, Name:r37, Name:r33, Name:r32,
+ Name:r24, Name:r25, Name:r41, Name:r42, Name:r53, Name:r56, Name:r52, Name:r51, Name:r45, Name:r47, Name:r61, Name:r59, 
+Name:r54, Name:r55, Name:r58, Name:r66, Name:r65, Name:r68, Name:r99, Name:r35, Name:r39, Name:r40, Name:r75,
+ Name:r73, Name:r162, Name:r72, Name:r76, Name:r78, Name:r79, Name:r98, Name:r180, Name:r181, Name:r100, Name:r101, Name:r104, 
+Name:r105, Name:r114, Name:r115, Name:r142, Name:r141, Name:r140, Name:r139, Name:r144, Name:r138, Name:r137, Name:r136, 
+Name:r133, Name:r145, Name:r151, Name:r153, Name:r150, Name:r113, Name:r102, Name:r152, Name:r154, Name:r103, Name:r93,
+ Name:r96, Name:r92, Name:r87, Name:r83, Name:r85, Name:r86, Name:r125, Name:r90, Name:r124, Name:r123, Name:r122, 
+Name:r126, Name:r120, Name:r119, Name:r118, Name:r127, Name:r128, Name:r146, Name:r155, Name:r156, Name:r157, Name:r161, 
+Name:r159, Name:r160, Name:r147, Name:r129, Name:r130, Name:r135, Name:r166, Name:r167, Name:r165, Name:r164, Name:r168,
+ Name:r171, Name:r174, Name:r175, Name:r176, Name:r179, Name:r177, Name:r178, Name:r173, Name:r84]
+GILBERT-LONG HOPEMAN
+
+
+Dijkstra's Path: [Name: GILBERT-LONG, Latitude: 43.13048, Longitude: -77.631559, Name: i2, Latitude: 43.130425, Longitude: -77.631532, 
+Name: i7, Latitude: 43.130128, Longitude: -77.631369, Name: i8, Latitude: 43.130079, Longitude: -77.631433, Name: i13, Latitude: 43.129944,
+ Longitude: -77.631336, Name: i22, Latitude: 43.129617, Longitude: -77.631119, Name: i19, Latitude: 43.129644, Longitude: -77.631039, 
+Name: i20, Latitude: 43.12958, Longitude: -77.63099, Name: i24, Latitude: 43.129294, Longitude: -77.630813, Name: i25, Latitude: 43.129182, 
+Longitude: -77.630805, Name: i31, Latitude: 43.128936, Longitude: -77.630634, Name: i39, Latitude: 43.128509, Longitude: -77.630333,
+ Name: TUNNEL-MOREY, Latitude: 43.128252, Longitude: -77.630162, Name: TUNNEL-HOYT, Latitude: 43.127507, Longitude: -77.629652,
+ Name: i65, Latitude: 43.126913, Longitude: -77.629443, Name: i66, Latitude: 43.126794, Longitude: -77.629749, 
+Name: HOPEMAN, Latitude: 43.126673, Longitude: -77.630084]
