@@ -45,7 +45,7 @@ public class canvas extends JComponent {
         System.out.println("Edges in Minimum Weight Spanning Tree: " + edg);
 
 
-        System.out.println("\n\nDijkstra's Path: " + myGraph.Dijkstras(myGraph.nodes.get(myGraph.intersectionNum.get("i15466")).get(0), myGraph.nodes.get(myGraph.intersectionNum.get("i58542")).get(0)));
+        System.out.println("\n\nDijkstra's Path: " + myGraph.Dijkstras(myGraph.nodes.get(myGraph.intersectionNum.get("ANDERSON")).get(0), myGraph.nodes.get(myGraph.intersectionNum.get("CSB")).get(0)));
 
         g.setColor(Color.RED);
         g2d.setStroke(new BasicStroke(10));
