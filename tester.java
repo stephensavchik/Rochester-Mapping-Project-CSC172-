@@ -10,7 +10,7 @@ public class tester
 {
     public static void main(String[] args) throws FileNotFoundException
     {
-        Graph g = new Graph("C:\\Users\\steph\\OneDrive\\Documents\\Intellij Projects\\CSC172\\IdeaProjects\\compSci172\\src\\PROJECT4\\MONROE.txt");
+        Graph g = new Graph("C:\\Users\\steph\\OneDrive\\Documents\\Intellij Projects\\CSC172\\IdeaProjects\\compSci172\\src\\PROJECT4\\UR.txt");
 
         JFrame frame = new JFrame("PROJECT4");
         canvas can = new canvas(g);
